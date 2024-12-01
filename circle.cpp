@@ -13,7 +13,7 @@ struct Circle {
   double area;     // area of the circle
 };
 
-int main() {
+int main() { 
   Circle c; // create a structure variable
 
   // get diameter from user
